@@ -1,0 +1,3 @@
+- insert:
+    - id: moyu-coach
+      name: '@local/moyu-coach'
